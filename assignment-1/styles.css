@@ -63,3 +63,56 @@
     margin: 20px;
 }
 /* end of head section */
+
+.web-dev {
+    background: rgba(13, 19, 33, 0.02);
+    margin: 50px 100px 0px 100px; 
+    padding-bottom: 10px;
+}
+
+.web-dev-inspiration {
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.web-dev-secondary-ins-bg {
+    background-color: white;
+    height: 350px;
+    margin: 50px 50px 50px 50px;
+}
+
+.web-dev-head {
+    text-align: center;
+    padding-top: 50px;
+}
+
+.inspiration-btn {
+    border: black;
+    border-style: ridge;
+    background: rgba(13 , 19, 33, 2%);
+    color:  #0D1321;
+    padding: 5px 30px;
+    font-size: 20px;
+    font-weight: 300;
+    text-decoration: none;  
+    margin: 10px 100px;
+}
+
+.web-dev-inspiration-head {
+    font-size: 35px;
+    margin: 60px 100px 25px 100px;
+    opacity: 70%;
+}
+
+.web-dev-inspiration-description {
+    margin: 30px 100px;
+}
+
+.web-dev-inspiration-img {
+    margin: 60px 100px ;
+    height: 250px;
+    width: 300px;
+}
+
+
