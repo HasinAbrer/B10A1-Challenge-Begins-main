@@ -64,6 +64,7 @@
 }
 /* end of head section */
 
+/* inspiration start */
 .web-dev {
     background: rgba(13, 19, 33, 0.02);
     margin: 50px 100px 0px 100px; 
@@ -114,5 +115,70 @@
     height: 250px;
     width: 300px;
 }
+
+/* inspiration end */
+
+/* youtube start */
+
+.youtube-head {
+    padding-top: 50px;
+}
+
+.youtube-title {
+    text-align: center;
+}
+
+.youtube-video {
+    /* margin-top: 80px; */
+    margin: 50px 250px;
+}
+
+.youtube-main {
+    align-items: center;
+}
+
+/* youtube end */
+
+/* current target start */
+
+.current-target-tltle {
+    text-align: center;
+}
+
+.current-azeret {
+    font-family: "Azeret Mono", serif;
+    font-optical-sizing: auto;
+    padding-bottom: 30px;
+}
+
+.all-learn {
+    color: black;
+}
+
+.current-target-html {
+    background-color: rgba(255, 76, 30, 0.05);
+    padding: 25px 25px;
+    border-radius: 6%;
+}
+
+.current-target-css {
+    background-color: rgba(0, 76, 232, 0.05);
+    padding: 25px 25px;
+    border-radius: 6%;
+}
+
+.current-target-js {
+    background-color: rgba(255, 223, 0, 0.05);
+    padding: 25px 25px;
+    border-radius: 6%;
+}
+
+.current-target-skill {
+    display: flex;
+    justify-content: space-evenly;
+    margin: 0px 190px;
+}
+
+/* current target end */
 
 
