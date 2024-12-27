@@ -181,4 +181,37 @@
 
 /* current target end */
 
+/* next target start */
 
+.azeret-mono-next-target {
+    font-family: "Azeret Mono", serif;
+    font-optical-sizing: auto;
+    font-weight: 800;
+    font-size: 20px;
+}
+
+.next-azeret {
+    font-family: "Azeret Mono", serif;
+    font-optical-sizing: auto;
+    padding-bottom: 20px;
+    padding-right: 35px;
+}
+
+.next-target-alignment {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    margin-left: 50px;
+    margin-right: 50px;
+    border: 1px solid;
+    padding-top: 15px;
+    padding-bottom: 30px;
+    padding-left: 35px;
+    border-radius: 20px;
+}
+
+.next-target-margin {
+    margin-top: 30px;
+}
+
+/* next target end */
