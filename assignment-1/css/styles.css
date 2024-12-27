@@ -28,7 +28,7 @@
 }
 
 .head-main { 
-    background-image: url('../assets/Hero-bg.png');
+    background-image: url('/assets/Hero-bg.png');
     width: 100%; 
     height: 600px;   
 }
