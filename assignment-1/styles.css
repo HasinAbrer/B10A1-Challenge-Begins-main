@@ -215,3 +215,30 @@
 }
 
 /* next target end */
+
+/* footer start */
+.azeret-mono-footer {
+    font-family: "Azeret Mono", serif;
+    font-optical-sizing: auto;
+    font-weight: 800;
+    font-size: 20px;
+}
+
+.footer-bg {
+    margin-top: 60px;
+    background-color: rgba(13, 19, 33, 0.03);
+    height: 100px;
+}
+
+.footer-main {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 50px;
+}
+
+.footer-img {
+    padding-right: 25px;
+    padding-top: 15px;
+}
+
+/* footer end */
